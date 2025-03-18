@@ -1,4 +1,4 @@
-# JavaScript Booklets
+# JavaScript Booklets Repository
 
 <br>
 
