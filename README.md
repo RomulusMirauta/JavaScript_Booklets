@@ -47,9 +47,10 @@ Reduced time spent on repetitive actions - these changes are not automatically s
 ## Compatibility Testing
 
 I tested this booklet on the following browsers:<br>
-✅ Google Chrome<br>
-✅ Mozilla Firefox<br>
-✅ Microsoft Edge<br>
+✅ Google Chrome <br>
+✅ Mozilla Firefox <br>
+✅ Microsoft Edge <br>
+✅ Opera GX <br>
 
 I tested this booklet on the following platforms:<br>
 ✅ Windows (11)<br>
