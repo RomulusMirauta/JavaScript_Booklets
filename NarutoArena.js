@@ -17,3 +17,7 @@ javascript: (function() {
     observer.observe(newWin.document, { childList: true, subtree: true });
   };
 })();
+
+
+//to create LOGIN only IF needed
+//click on mute button when in-battle as well
