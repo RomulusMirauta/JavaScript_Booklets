@@ -117,4 +117,3 @@ I tested this bookmarklet on the following browsers:<br>
 
 I tested this bookmarklet on the following platforms:<br>
 ✅ Windows (11)<br>
-✅ Android (14)<br>
