@@ -98,8 +98,8 @@ Removes the need of repeated manual clicking and typing when searching on SkySho
 9. on browser's Bookmark Bar *(right below the field showing current website's address)*, find the previously created bookmark and left-click on it
 10. if not already logged-in: log-in using your credentials
 11. left-click again on the bookmarklet:
-   - if you're already on the search page, it will focus the search input and it will type the phrase
-   - if you clicked from another site, the bookmark will open SkyShowtime in a new tab and instruct you to click the bookmark again on that tab
+      - if you're already on the search page, it will focus the search input and it will type the phrase
+      - if you clicked from another site, the bookmark will open SkyShowtime in a new tab and instruct you to click the bookmark again on that tab
 
 <br>
 
