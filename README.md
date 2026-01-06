@@ -16,8 +16,8 @@ II. [SkyShowtime Bookmarklet](#II-skyshowtime-bookmarklet)
 ### Links
 - main website: https://www.naruto-arena.site/
 - in-game website: https://www.naruto-arena.site/ingame
-- bookmarklet code (minified, paste into bookmark URL): [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
-- beautified source & development: [NarutoArenaCode.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/NarutoArena/NarutoArenaCode.js)
+- bookmarklet code (minified, paste into bookmark URL): [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
+- beautified source & development: [NarutoArenaCode.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/NarutoArena/NarutoArenaCode.js)
 
 <br>
 
@@ -33,7 +33,7 @@ Reduced time spent on repetitive actions - these changes are not automatically s
 
 ## How to use
 1. open your desired browser
-2. access the bookmarklet's code by clicking here: [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
+2. access the bookmarklet's code by clicking here: [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
 3. press the sequence of keys `CTRL` and `A` in order to select the entire code
 4. copy the code
 5. open the Bookmark Manager - for Chrome: press the sequence of keys `CTRL`, `SHIFT` and `O` *(not zero)*
@@ -69,8 +69,8 @@ I tested this bookmarklet on the following platforms:<br>
 ## Links
 - main website: https://www.skyshowtime.com/
 - search page: https://www.skyshowtime.com/watch/search
-- bookmarklet code (minified, paste into bookmark URL): [SkyShowtimeBookmarklet.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/SkyShowtime/SkyShowtimeBookmarklet.js)
-- beautified source & development: [SkyShowtimeCode.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/SkyShowtime/SkyShowtimeCode.js)
+- bookmarklet code (minified, paste into bookmark URL): [SkyShowtimeBookmarklet.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/SkyShowtime/SkyShowtimeBookmarklet.js)
+- beautified source & development: [SkyShowtimeCode.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/SkyShowtime/SkyShowtimeCode.js)
 
 <br>
 
@@ -86,7 +86,7 @@ Removes the need of repeated manual clicking and typing when searching on SkySho
 
 ## How to use
 1. open your desired browser
-2. open the bookmarklet file here: [SkyShowtimeBookmarklet.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/SkyShowtime/SkyShowtimeBookmarklet.js)
+2. open the bookmarklet file here: [SkyShowtimeBookmarklet.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/SkyShowtime/SkyShowtimeBookmarklet.js)
 3. press the sequence of keys `CTRL` and `A` in order to select the entire code
 4. copy the code
 5. open the Bookmark Manager - for Chrome: press the sequence of keys `CTRL`, `SHIFT` and `O` *(not zero)*
@@ -104,7 +104,7 @@ Removes the need of repeated manual clicking and typing when searching on SkySho
 <br>
 
 > **Note:**  
-> The bookmarklet targets the element with the selector `.xZpnK1HA4L`. This class may be obfuscated and could change in the future. If the script stops working, update the selector in the beautified source file *([SkyShowtimeCode.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/SkyShowtime/SkyShowtimeCode.js))*.
+> The bookmarklet targets the element with the selector `.xZpnK1HA4L`. This class may be obfuscated and could change in the future. If the script stops working, update the selector in the beautified source file *([SkyShowtimeCode.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/SkyShowtime/SkyShowtimeCode.js))*.
 
 <br>
 
