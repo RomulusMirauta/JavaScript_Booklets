@@ -6,8 +6,8 @@
 <br>
 
 # Table of Contents
-I. [Naruto Arena Bookmarklet](#1-naruto-arena-bookmarklet)  
-II. [SkyShowtime Bookmarklet](#2-skyshowtime-bookmarklet)
+I. [Naruto Arena Bookmarklet](#I-naruto-arena-bookmarklet)  
+II. [SkyShowtime Bookmarklet](#II-skyshowtime-bookmarklet)
 
 <br>
 
@@ -31,7 +31,7 @@ Reduced time spent on repetitive actions - these changes are not automatically s
 
 <br>
 
-### How to use
+## How to use
 1. open your desired browser
 2. access the bookmarklet's code by clicking here: [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
 3. press the sequence of keys `CTRL` and `A` in order to select the entire code
@@ -48,7 +48,7 @@ Reduced time spent on repetitive actions - these changes are not automatically s
 
 <br>
 
-### Compatibility Testing
+## Compatibility Testing
 
 I tested this bookmarklet on the following browsers:<br>
 ✅ Google Chrome <br>
@@ -61,9 +61,8 @@ I tested this bookmarklet on the following platforms:<br>
 ✅ Android (14)<br>
 
 
-<!--
-
 <br><hr><br>
+
 
 # II. SkyShowtime Bookmarklet
 
