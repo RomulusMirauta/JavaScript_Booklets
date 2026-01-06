@@ -104,7 +104,7 @@ Removes the need of repeated manual clicking and typing when searching on SkySho
 <br>
 
 > **Note:**  
-> The bookmarklet targets the element with the selector `.xZpnK1HA4L`. This class may be obfuscated and could change in the future. If the script stops working, update the selector in the beautified source file ([SkyShowtimeCode.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/SkyShowtime/SkyShowtimeCode.js)).
+> The bookmarklet targets the element with the selector `.xZpnK1HA4L`. This class may be obfuscated and could change in the future. If the script stops working, update the selector in the beautified source file *([SkyShowtimeCode.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/SkyShowtime/SkyShowtimeCode.js))*.
 
 <br>
 
