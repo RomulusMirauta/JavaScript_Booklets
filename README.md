@@ -13,7 +13,7 @@ II. [SkyShowtime Bookmarklet](#2-skyshowtime-bookmarklet)
 
 # I. Naruto Arena Bookmarklet
 
-## Links
+### Links
 - main website: https://www.naruto-arena.site/
 - in-game website: https://www.naruto-arena.site/ingame
 - bookmarklet code (minified, paste into bookmark URL): [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
@@ -31,7 +31,7 @@ Reduced time spent on repetitive actions - these changes are not automatically s
 
 <br>
 
-## How to use
+### How to use
 1. open your desired browser
 2. access the bookmarklet's code by clicking here: [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript_Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
 3. press the sequence of keys `CTRL` and `A` in order to select the entire code
@@ -48,7 +48,7 @@ Reduced time spent on repetitive actions - these changes are not automatically s
 
 <br>
 
-## Compatibility Testing
+### Compatibility Testing
 
 I tested this bookmarklet on the following browsers:<br>
 ✅ Google Chrome <br>
@@ -59,6 +59,9 @@ I tested this bookmarklet on the following browsers:<br>
 I tested this bookmarklet on the following platforms:<br>
 ✅ Windows (11)<br>
 ✅ Android (14)<br>
+
+
+<!--
 
 <br><hr><br>
 
