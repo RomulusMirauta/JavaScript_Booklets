@@ -13,6 +13,10 @@ II. [SkyShowtime Bookmarklet](#II-skyshowtime-bookmarklet)
 
 # I. Naruto Arena Bookmarklet
 
+## Demo
+
+![Naruto Arena Bookmarklet Demo](NarutoArena/NarutoArenaDemo.gif)
+
 ### Links
 - main website: https://www.naruto-arena.site/
 - in-game website: https://www.naruto-arena.site/ingame
