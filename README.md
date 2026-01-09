@@ -66,6 +66,27 @@ I tested this bookmarklet on the following platforms:<br>
 
 # II. SkyShowtime Bookmarklet
 
+
+<br>
+
+## Demo
+
+![SkyShowtime Bookmarklet Demo](SkyShowtime/SkyShowtimeDemo.gif)
+
+<br>
+
+![SkyShowtime Bookmarklet Demo GIF](SkyShowtime/SkyShowtimeDemo.gif)
+
+<details>
+<summary>WebM version (higher quality, smaller size):</summary>
+
+<video src="SkyShowtime/SkyShowtimeDemo.webm" controls style="max-width: 600px; width: 100%;"></video>
+
+</details>
+
+<br>
+
+
 ## Links
 - main website: https://www.skyshowtime.com/
 - search page: https://www.skyshowtime.com/watch/search
