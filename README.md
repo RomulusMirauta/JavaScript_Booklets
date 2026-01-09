@@ -75,14 +75,10 @@ I tested this bookmarklet on the following platforms:<br>
 
 <br>
 
-![SkyShowtime Bookmarklet Demo GIF](SkyShowtime/SkyShowtimeDemo.gif)
-
-<details>
-<summary>WebM version (higher quality, smaller size):</summary>
-
+<!-- <details> -->
+<!-- <summary>WebM version (higher quality, smaller size):</summary> -->
 <video src="SkyShowtime/SkyShowtimeDemo.webm" controls style="max-width: 600px; width: 100%;"></video>
-
-</details>
+<!-- </details> -->
 
 <br>
 
