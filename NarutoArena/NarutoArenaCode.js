@@ -19,5 +19,6 @@ javascript: (function() {
 })();
 
 
-//to create LOGIN only IF needed
-//click on mute button when in-battle as well
+// IDEAS
+// to add: click on LOGIN
+// to add: click on mute button when in-battle as well

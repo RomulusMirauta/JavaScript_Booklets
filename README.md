@@ -17,7 +17,7 @@ II. [SkyShowtime Bookmarklet](#II-skyshowtime-bookmarklet)
 
 ![Naruto Arena Bookmarklet Demo](NarutoArena/NarutoArenaDemo.gif)
 
-### Links
+## Links
 - main website: https://www.naruto-arena.site/
 - in-game website: https://www.naruto-arena.site/ingame
 - bookmarklet code (minified, paste into bookmark URL): [NarutoArenaBookmarklet.js](https://github.com/RomulusMirauta/JavaScript-Bookmarklets/blob/main/NarutoArena/NarutoArenaBookmarklet.js)
